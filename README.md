@@ -15,7 +15,7 @@ I'm a junior chemical engineering student passionate about battery design, robot
 
 ## 📁 Featured Projects
 - [Perfumery](https://github.com/jin1906/perfumery) - All things perfumery...
-- [Venturi Flow Meter](#) - A 3D printed flow meter used to simulate blood flowing through an enlarged aorta
+- [Venturi Flow Meter](https://github.com/jin1906/venturiflowmeter/blob/main/README.md) - A 3D printed flow meter used to simulate blood flowing through an enlarged aorta
 - [Bananas Bananas Bananas!](#) - Determining the concentration of potassium in bananas and plantains via AAS and titration
 - [L'oreal Brandstorm](#) - A watch that disperses fragrance at timed intervals with a formula for reducing anxiety
 
