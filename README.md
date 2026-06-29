@@ -20,4 +20,4 @@ I'm a junior chemical engineering student passionate about battery design, robot
 - [L'oreal Brandstorm](#) - A watch that disperses fragrance at timed intervals with a formula for reducing anxiety
 
 ## 💼 Experience
-- **Battery Manufacturing Intern** @ [Gold Peak Energy Ltd. (GP EnergyTech)] (Summer 2026) Designed assembly lines for proprietary ZnNi batteries
+- **Battery Manufacturing Intern** @ GP EnergyTech (Summer 2026) Designed assembly lines for proprietary ZnNi batteries
