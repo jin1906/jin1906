@@ -8,9 +8,9 @@ I'm a junior chemical engineering student passionate about battery design, robot
 - Reach me @ jinlee2@andrew.cmu.edu
 
 ##  🛠️ Technical Skills
-- **Simulation** MATLAB, AutoCAD, Fusion360, COMSOL, Aspen
-- **Lab Skills** GC, AAS, UV-Vis, MS, Titration meter
-- **Programming** Python, MATLAB, LaTeX
+- **Simulation:** MATLAB, AutoCAD, Fusion360, COMSOL, Aspen
+- **Lab Skills:** GC, AAS, UV-Vis, MS, Titration meter
+- **Programming:** Python, MATLAB, LaTeX
 - **Relevant Coursework** Heat & Mass Transfer, Optimization and Machine Learning, Mathematical Methods, Fluid Mechanics, Molecular Foundations
 
 ## 📁 Featured Projects
