@@ -21,5 +21,4 @@ I'm a junior chemical engineering student passionate about battery design, robot
 - [GP Internship](https://github.com/jin1906/GP.Internship) - Batteries, and more batteries
 
 ## 💼 Experience
-- **Battery Manufacturing Intern** @ GP EnergyTech (Summer 2026)
-- Designed assembly lines for proprietary ZnNi batteries
+- **Battery Engineering Intern** @ GP EnergyTech (Summer 2026)
